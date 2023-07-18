@@ -1,0 +1,32 @@
+
+
+int num1 = 10;
+int num2 = 20; 
+
+int Sum = num1 + num2;
+
+
+variable  
+
+int num3 = 20;
+int num14 = 30;
+int sum1 = num 3 + num4;
+
+
+
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+add(10,20);
+
+void add(int x, int y)
+{
+    x +y
+}
